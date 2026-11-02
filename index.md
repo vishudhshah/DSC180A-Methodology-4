@@ -2,8 +2,7 @@
 
 Vishudh Shah  
 v8shah@ucsd.edu  
-Section: D32
-Mentor: Yusu Wang
+Section: D32, Mentor: Yusu Wang
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
